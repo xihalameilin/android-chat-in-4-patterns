@@ -1,2 +1,4 @@
-学号：
-作业选项：
+学号：161250084
+作业选项：1
+![]{http://www.baidu.com/img/bd_logo1.png?where=super} 显示百度的logo
+截屏在result.png

@@ -11,6 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
             android:name=".MainActivity"
@@ -22,6 +23,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".hw1.Mvp0TalkActivity"/>
         <activity android:name=".mvc0.Mvc0TalkActivity" />
         <activity android:name=".frp0.Frp0TalkActivity" />
         <activity android:name=".frp3.Frp3TalkActivity"/>
